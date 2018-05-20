@@ -1,0 +1,17 @@
+div {
+    height: 500px;
+}
+ul li {
+    list-style-type: none;
+    display: inline-block;
+    width: 20px;
+    padding: 10px;
+    align-content: center;
+    font-size: 3em;
+    color: blue;
+    background-color: lightblue;
+}
+.highlight {
+    color: red;
+    background-color: lightcoral;
+}

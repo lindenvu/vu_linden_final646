@@ -1,0 +1,27 @@
+main {
+    width: 600px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+ul {
+    padding-top: 5px;
+    background-color:lightgrey;
+    border-radius: 5px;
+}
+
+ul li {
+    list-style-type: none;
+    display: inline-block;
+    background-color: seashell;
+    padding: 3px 10px;
+    border-radius: 3px 3px 0 0;
+}
+
+#d1, #d2, #d3 {
+    padding-left: 10px;
+}
+
+.highlight {
+    background-color:white;
+}
